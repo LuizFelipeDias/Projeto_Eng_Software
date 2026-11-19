@@ -19,6 +19,11 @@ O projeto usa as mesmas regras para o Copilot e para o Claude Code. Fonte única
 6. Nunca faça merge, push na `main` ou `git push --force`. Trabalhe na branch da tarefa.
 7. Ao terminar: liste os arquivos alterados, os comandos executados e qualquer desvio da spec, para o registro em `docs/registro-ia.md`.
 
+## Claude Code local × sessão na nuvem (claude.ai/code)
+- **Local (terminal na sua máquina):** tem Docker; rode também os testes de integração com o LocalStack (`docker compose up -d`).
+- **Nuvem:** o container pode não ter Docker. Rode só os testes unitários (`InMemory*`) e registre no relatório que a integração não foi executada.
+- A nuvem cria branches `claude/...`. Antes do PR, renomeie para o padrão `feat/<id-historia>-descricao-curta` (`git branch -m`) ou cite a história no título do PR.
+
 ## Agentes do projeto (Claude Code)
 - `implementador` (`.claude/agents/implementador.md`): implementa uma história com TDD.
 - `revisor` (`.claude/agents/revisor.md`): emite parecer sobre o diff, sem editar arquivos.
