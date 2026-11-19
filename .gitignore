@@ -1,0 +1,22 @@
+# Segredos (RNF-04): nunca versionar. Use .env.example com valores fictícios.
+.env
+.env.*
+!.env.example
+
+# Dependências e artefatos de build
+node_modules/
+dist/
+build/
+coverage/
+
+# Dados locais do LocalStack
+.localstack/
+volume/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.idea/
+
+# Configuração pessoal do Claude Code (não compartilhar)
+.claude/settings.local.json
