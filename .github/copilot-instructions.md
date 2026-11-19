@@ -9,7 +9,7 @@ Sistema web de upload, processamento assíncrono e gerenciamento de arquivos sim
 
 ## Comandos de Build, Teste e Lint
 * Back-end: `cd backend && npm run lint && npm test`
-* Front-end: `cd frontend && npm run lint && npm run build`
+* Front-end: `cd frontend && npm run lint && npm test && npm run build` (testes com Vitest)
 * Infraestrutura local: `docker compose up -d`
 
 ## Convenções e Proibições
