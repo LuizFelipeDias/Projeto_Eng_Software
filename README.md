@@ -12,8 +12,8 @@
 | Nome completo | GitHub | Papel | O que cobre bem | Justificativa do papel |
 | :--- | :--- | :--- | :--- | :--- |
 | Luiz Felipe Dias de Araujo | [@LuizFelipeDias](https://github.com/LuizFelipeDias) | Arquiteto Técnico / Dev | Programar, arquitetura, infraestrutura | Possui experiência prévia com Node.js, React, Docker e arquitetura de sistemas. |
-| Gustavo Mioduski Rodrigues | [@gustavo-github](https://github.com/gustavomioduski11) | Product Owner / QA | Negociar, documentar, testar | Facilidade em estruturar requisitos, priorizar valor e validar critérios de aceitação. |
-| Samuel da Rocha | [@samuel-github](https://github.com/samuel-github) | Scrum Master / Dev | Programar, testar, facilitar processo | Boa organização de fluxo de trabalho, versionamento e remoção de impedimentos. |
+| Gustavo Mioduski Rodrigues | [@gustavomioduski11](https://github.com/gustavomioduski11) | Product Owner / QA | Negociar, documentar, testar | Facilidade em estruturar requisitos, priorizar valor e validar critérios de aceitação. |
+| Samuel da Rocha | [@Samuelsdr](https://github.com/Samuelsdr) | Scrum Master / Dev | Programar, testar, facilitar processo | Boa organização de fluxo de trabalho, versionamento e remoção de impedimentos. |
 
 *Cobertura de perfis:* o grupo cobre os quatro perfis recomendados (negociar, programar, testar e documentar). Como somos 3 integrantes, os testes e a documentação são compartilhados entre PO e Scrum Master, enquanto o desenvolvimento é dividido entre Arquiteto e Scrum Master.
 
