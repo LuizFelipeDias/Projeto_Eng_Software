@@ -1,7 +1,7 @@
 # Convenção de Versionamento — CloudVault
 
 ## As 4 Regras do Repositório
-1. **Repositório:** Hospedado no GitHub (`LuizFelipeDias/Projeto_Eng_Software`), com acesso de leitura/escrita para os 3 integrantes (`@LuizFelipeDias`, `@gustavomioduski11`, `@samuel-github`) e acesso garantido ao professor.
+1. **Repositório:** Hospedado no GitHub (`LuizFelipeDias/Projeto_Eng_Software`), com acesso de leitura/escrita para os 3 integrantes (`@LuizFelipeDias`, `@gustavomioduski11`, `@Samuelsdr`) e acesso garantido ao professor.
 2. **Branches:** Nunca commitar diretamente na `main`. Criar uma branch por tarefa seguindo o padrão: `feat/<id-historia>-descricao-curta`, `fix/<descricao>` ou `docs/<descricao>`.
 3. **Fusão (merge):** Toda alteração entra na `main` exclusivamente via Pull Request (PR) após revisão e aprovação de pelo menos **1 integrante humano** diferente do autor. O Arquiteto Técnico ou o Scrum Master realiza o merge.
 4. **Teste e lint antes de integrar:** O GitHub Actions (CI) executa automaticamente `npm run lint` e `npm test` em todo PR. O merge só é permitido com ambos passando.
