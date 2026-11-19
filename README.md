@@ -25,3 +25,10 @@ Uma história ou tarefa só é considerada pronta quando atender a todos os crit
 4. O Pull Request foi revisado e aprovado por pelo menos um integrante humano diferente do autor.
 5. Nenhuma regra arquitetural do `ADR-001` foi violada (verificado pelo agente revisor e pelo revisor humano).
 6. O uso de agentes de IA na tarefa foi registrado em `docs/registro-ia.md`.
+
+## Navegação
+- Índice da Entrega Parcial 01: [ENTREGAPARCIAL01.md](ENTREGAPARCIAL01.md)
+- Requisitos e backlog: [specs/](specs/)
+- Arquitetura e ADR: [docs/arquitetura.md](docs/arquitetura.md), [docs/adr/](docs/adr/)
+- Agentes de IA: Copilot em [.github/agents/](.github/agents/) e Claude Code em [.claude/agents/](.claude/agents/) e [CLAUDE.md](CLAUDE.md)
+- Registro de uso de IA: [docs/registro-ia.md](docs/registro-ia.md)
