@@ -33,3 +33,5 @@ Os resultados das execuções de integração e aceitação serão registrados e
 | **H2 (Fila SQS)** | Se o arquivo não existir no S3 quando o worker processar, o status é atualizado para `ERRO`. | Funcional | Sim |
 | **H3 (Listagem)** | A tela exibe nome, tamanho e status de todos os arquivos cadastrados no DynamoDB. | Funcional | Sim |
 | **H3 (Listagem)** | Selecionar o filtro `PROCESSADO` exibe apenas arquivos com esse status. | Funcional | Não (manual/UI) |
+
+Documento revisado por Samuel.
