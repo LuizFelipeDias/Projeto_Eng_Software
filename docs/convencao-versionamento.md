@@ -19,3 +19,6 @@ Seguindo a regra "nunca quebre a construção" (Sommerville, 2019, p. 678):
 
 ## Responsabilidade pelo Código Integrado
 > **Regra do grupo:** O integrante humano que aprova e integra o Pull Request na `main` responde integralmente pela qualidade, segurança e funcionamento do código integrado, mesmo quando gerado por agente de IA.
+
+
+Documento revisado por Samuel.
